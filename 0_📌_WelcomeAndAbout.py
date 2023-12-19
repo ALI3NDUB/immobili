@@ -5,8 +5,8 @@ st.set_page_config(
     page_icon="👋",
 )
 
-percorso_locale_immagine = "/Users/user/Desktop/demo/01.png"
-st.image(percorso_locale_immagine, use_column_width=True)
+#percorso_locale_immagine = "/Users/user/Desktop/demo/01.png"
+#st.image(percorso_locale_immagine, use_column_width=True)
 
 st.markdown(
         f"""
@@ -58,6 +58,6 @@ st.markdown(
 """
 )
 
-percorso_locale_immagine = "/Users/user/Desktop/demo/ifoa.png"
-st.image(percorso_locale_immagine, use_column_width=False, width = 200)
+#percorso_locale_immagine = "/Users/user/Desktop/demo/ifoa.png"
+#st.image(percorso_locale_immagine, use_column_width=False, width = 200)
 
